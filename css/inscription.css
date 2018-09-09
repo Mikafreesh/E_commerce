@@ -1,0 +1,22 @@
+.titre{
+    margin-left: 13%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-weight:bold;
+}
+.container{
+    background-color:#f2f2f2;
+    height:700px; 
+}
+
+.bouton{
+    padding-left: 2%;
+}
+.erreur{
+    color:#c21807;
+}
+.validate{
+color: #1271b1;
+
+}
